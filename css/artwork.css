@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+}
+
+.auto-grid {
+    --auto-grid-min-size: 16rem;
+
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(var(--auto-grid-min-size), 1fr));
+    grid-gap: 2rem;
+}
+
+
+/* Presentational styles */
+
+body {
+    padding: 1rem;
+}
+
+img {
+    padding: 1rem 1rem;
+    background: rgb(134, 131, 131);
+}
+
+img {
+    max-width: 200px;
+    max-height: 200px;
+    
+}
+
+img:hover {
+    transform: scale(2);
+    box-shadow: 0 0 10px rgba(0.5, 0.5, 0.5, 0.5);
+    background-color: rgb(128, 128, 128, 0.8) ;
+    z-index:10;
+}
+
+div {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
