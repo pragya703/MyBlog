@@ -52,19 +52,19 @@ h1 {
 }
 
 .a {
-    background-image: url("/WebpageProject/images/illustration.jpeg");
+     background-image: url("/projectJMIT2022/images/illustration.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .b {
-    background-image: url("/WebpageProject/images/nightsky.jpeg");
+    background-image: url("/projectJMIT2022/images/nightsky.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .c {
-    background-image: url("/WebpageProject/images/nature.jpeg");
+    background-image: url("/projectJMIT2022/images/nature.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
 }
