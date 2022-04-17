@@ -22,7 +22,7 @@ body {
 
 img {
     padding: 1rem 1rem;
-    background: rgb(134, 131, 131);
+    background: rgb(134, 131, 131, 0.5);
      max-width: 200px;
     max-height: 200px;
 }
