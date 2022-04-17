@@ -1,6 +1,5 @@
 h1 {
     text-align: center;
-    color: #fff;
 }
 
 .auto-grid {
@@ -16,9 +15,6 @@ h1 {
 
 body {
     padding: 1rem;
-    background-image: url(/projectJMIT2022/images/bgcover.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 img {
